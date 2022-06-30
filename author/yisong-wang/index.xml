@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yisong Wang | Institute for Artificial Intelligence</title>
+    <link>https://gzu-ai.github.io/author/yisong-wang/</link>
+      <atom:link href="https://gzu-ai.github.io/author/yisong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yisong Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://gzu-ai.github.io/author/yisong-wang/avatar_hub648f11c7269243f2d494d48a38b06e4_10414_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yisong Wang</title>
+      <link>https://gzu-ai.github.io/author/yisong-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
